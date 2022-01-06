@@ -1,2 +1,2 @@
 # odin-css
-here are all the css exercises from TOP
+My solutions for the CSS exercises from The Odin Project
